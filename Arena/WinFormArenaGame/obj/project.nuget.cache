@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CKLJG7ErBqF1rmbvf8ItK1FydJu545AdG784+MA130erUm6VuyRbIgJUFcRwh+KB4uAfzufT9ay2gF3s5w/09A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PowerPC\\Desktop\\ArenaGame2\\Arena\\WinFormArenaGame\\WinFormArenaGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PowerPC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\PowerPC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\PowerPC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\PowerPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
